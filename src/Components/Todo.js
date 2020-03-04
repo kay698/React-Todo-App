@@ -22,5 +22,4 @@ const Todo = ({todos, deleteTodo}) => {
     )
   
 }
-gt
 export default Todo;
